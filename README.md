@@ -6,4 +6,4 @@
 * 去除了原版只能向网易云推流的限制
 * 解决了原版无法兼容新版chrome的问题（"Cross-origin plugin content from  must have a visible size larger than 400 x 300 pixels, or it will be blocked. Invisible content is always blocked."）
 * 解决了原版使用JSON.parse()前没判断类型导致推流失败的bug
-* 剥离原版各种http请求（如心跳接口、获取网易云cdn地址等），实现纯净推流器。
+* 剥离原版各种http请求（如心跳接口、获取网易云cdn地址等），实现纯净无监控推流器。
