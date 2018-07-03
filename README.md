@@ -1,4 +1,4 @@
-# js_flash_rtmp_streamer
+# web-rtmp-streamer
 
 本项目使用js+swf实现了一个rtmp推流器。有效兼容腾讯云等标准rtmp推流服务。可以直接[访问DEMO](https://lujunda.github.io/web-rtmp-streamer/)查看效果。
 
